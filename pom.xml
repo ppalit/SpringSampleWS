@@ -124,11 +124,11 @@
             <version>4.7</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
+        <!-- <dependency>
 			<groupId>dev.priyo.spring</groupId>
 			<artifactId>beans</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency> -->
     </dependencies>
    
 </project>
